@@ -47,7 +47,7 @@ ___
 
 ### Where can I see your demo
 
-- You can click on the link her --> [Demo](https://devchallenges-404-not-found.ishakbhn.vercel.app/)
+- You can click on the link her --> [Demo](https://3-interior-consultant-jervi.netlify.app/)
 
 ### What was your experience
 - Targeted firstly phone's screen, then large screen.
